@@ -164,7 +164,7 @@ Kariyerim boyunca birçok önemli rapor ve röportajda yer aldım. Siber güvenl
   [Link](https://ippi.org.ua/sites/default/files/2020-11.pdf)
 
 - **Amerika Ulusal İstihbarat Müdürlüğü**  
-  Raporun 9. sayfasında yaptığım eylemler analiz edildi.  
+  Raporun 9. sayfasında bana yer verildi.  
   [Link](https://www.dni.gov/files/ODNI/documents/assessments/ICA-declass-16MAR21.pdf)
 
 - **Güney Kıbrıs Savunma Bakanlığı Hacklenmesi Sonrası Siber Saldırı Analizi**  
