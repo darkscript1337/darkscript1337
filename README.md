@@ -137,8 +137,8 @@ Obama’nın web sitesini hackledim.
 WikiLeaks’in resmi sitesi ve online mağazasına siber saldırı düzenledim.  
   [Kaynak](https://www.secnews.gr/372567/turkish-hacker-rootayyildiz-hack-wikileaks-online-store/)
 
-- **Anonymous'un Twitter Hesabının Hacklenmesi**  
-Anonymous’un 5.1 milyon takipçili Twitter hesabı @YourAnonCentral ve YAC.News haber sitesini hackledim.  
+- **Anonymous'un İnternet Haber Sitesini Hesabının Hacklenmesi**  
+Anonymous’un 5.1 milyon takipçili YAC.News haber sitesini hackledim.  
   [Kaynak](https://x.com/YourAnonCentral)  
   [Kaynak](https://zone-h.org/mirror/id/40776898)
 
