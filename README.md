@@ -69,7 +69,7 @@ Donald Trump’ın seçim propagandasının yapıldığı internet sitesini hack
   [Kaynak](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-website-turkish-hacker-b1940752.html)  
   [Kaynak](https://www.forbes.com/sites/joewalsh/2021/10/18/hacker-appears-to-deface-part-of-trumps-website/)
 
-  - ** Mısır Ulusal İstihbarat Servisi**   
+  - **Mısır Ulusal İstihbarat Servisi**   
   [Kaynak](https://www.secnews.gr/349361/rootayyildiz-hack-state-information-service-egypt/)  
   [Kaynak](https://siberbasin.net/misir-devlet-istihbarat-servisi-ve-fransa-basbakanlik-veri-platformu-hacklendi/)
 
