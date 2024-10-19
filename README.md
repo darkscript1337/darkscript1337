@@ -206,6 +206,16 @@ Yaptığım hacktivist eylemler ve başarılar, Forbes, CNN ve Amerika Birleşik
 
 ---
 
+## Hacking Televizyon Haberleri
+
+- [Video 1](https://streamable.com/h8cufz)
+- [Video 2](https://streamable.com/tedzed)
+- [Video 3](https://streamable.com/4jm2iq)
+- [Video 4](https://streamable.com/fxpq9k)
+- [Video 5](https://streamable.com/j468jc)
+- [Video 6](https://streamable.com/e/ukb9ft)
+---
+
 ## 🌍 Sosyal Medya ve İletişim:
 
 Beni Instagram'da takip edebilirsiniz:
