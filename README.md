@@ -142,7 +142,21 @@ WikiLeaks’in resmi sitesi ve online mağazasına siber saldırı düzenledim.
 Anonymous’un 5.1 milyon takipçili YAC.News haber sitesini hackledim.  
   [Kaynak](https://x.com/YourAnonCentral)  
   [Kaynak](https://zone-h.org/mirror/id/40776898)
+- **Yunanistan Dışişleri Bakanlığı'nın Mail Sunucuları ve Sosyal Medya Hesaplarının Hacklenmesi** 
+Yunanistan Dışişleri Bakanlığı'nın mail sunucuları ve sosyal medya hesaplarını hackledim.
+[Kaynak](https://www.youtube.com/watch?v=mBZ4tbHf5_k)  
 
+- **Oklahoma Şerif Karakollarının Hacklenmesi** 
+Amerika'daki Oklahoma eyaletinin şerif karakollarını hackledim.
+[Kaynak](https://kfor.com/news/local/hackers-hit-4-oklahoma-sheriffs-office-websites/)  
+
+- **Fox News TV Kanalının Web Sitesinin Hacklenmesi** 
+ABD’nin meşhur Fox News TV kanalının internet sitesini hackledim ve siteye Filistin ile ilgili bir mesaj bıraktım.
+[Kaynak](https://dogruhaber.com.tr/haber/755934-amerika-fox-news-tv-kanalinin-web-sitewsinin-filistin-icin-hacklendigi-iddia-edildi)  
+
+- **New York Times Web Sitesinin Domain Hacklenmesi** 
+New York Times’ın 20 yıldan fazladır ellerinde olan domainini hackledim.
+[Kaynak](https://www.zone-h.org/mirror/id/33819987)  
 ---
 
 ### Bu eylemlerim sonucunda şu ülkeler tarafından davalar açılmıştır:
@@ -150,7 +164,7 @@ Anonymous’un 5.1 milyon takipçili YAC.News haber sitesini hackledim.
 - Yunanistan
 - Hindistan
 - Güney Kıbrıs
-
+- SriLanka
 (Trump 2 Biden 3 Defa Hacklenmiştir.)
 
 ---
