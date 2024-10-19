@@ -216,6 +216,39 @@ Yaptığım hacktivist eylemler ve başarılar, Forbes, CNN ve Amerika Birleşik
 - [Video 6](https://streamable.com/e/ukb9ft)
 ---
 
+### Bir Takım Haber Linkleri
+
+- [En Son Haber - Sinoplu Hacker Joe Biden’ın Partisini Hedef Aldı](https://www.ensonhaber.com/gundem/sinoplu-hacker-joe-bidenin-partisini-hedef-aldi)
+- [Haberler.com - Sinoplu Hackerdan Biden’ın Partisine Şok](https://www.haberler.com/sinoplu-hackerdan-biden-in-partisine-sok-14503463-haberi/)
+- [Cumhuriyet - Sinoplu Hackerdan Biden’ın Partisine Şok](https://www.cumhuriyet.com.tr/turkiye/sinoplu-hackerdan-bidenin-partisine-sok-1881421)
+- [MSN Video - Sinoplu Hackerdan Biden’ın Partisine Şok](https://www.msn.com/en-ca/video/news/sinoplu-hackerdan-biden%C4%B1n-partisine-%C5%9Fok/vp-AAQeSpu)
+- [Mynet - Sinoplu Hackerdan Biden’ın Partisine Şok](https://www.mynet.com/sinoplu-hackerdan-bidenin-partisine-sok-7573095-myvideo)
+- [Haber7 - Sinoplu Hackerdan Biden’ın Partisine Şok](https://www.haber7.com/teknoloji/haber/3157757-sinoplu-hackerdan-bidenin-partisine-sok)
+- [TGRT Haber - Sinoplu Hacker Yine İş Başında](https://www.tgrthaber.com.tr/gundem/sinoplu-hacker-yine-is-basinda-bidenin-partisini-hackledi-2800265)
+- [HaberTürk - Sinoplu Hackerdan Biden’ın Partisine Şok](https://www.haberturk.com/sinop-haberleri/91817197-sinoplu-hackerdan-bidenin-partisine-sokdemokratlarin-internet-sitesinde-fetoyle-dalga-gecti)
+- [Greek City Times - Türk Hackerlar Yunanistan İçişleri Bakanlığı'nı Hackledi](https://greekcitytimes.com/2020/05/21/turkey-hack-greek-interior-ministry-website/)
+- [Newsbomb - Türk Hackerlar Yunanistan İşleri Bakanlığını Hackledi](https://www.newsbomb.gr/ellada/story/1109180/toyrkoi-xakaran-tin-istoselida-toy-ypoyrgeioy-ergasias)
+- [Star - Türk Hackerlar Yunanistan İşleri Bakanlığını Hackledi](https://www.star.gr/eidiseis/ellada/510897/toyrkoi-xakaran-thn-istoselida-toy-ypoyrgeioy-ergasias)
+- [CNN Greece - Türk Hackerlar Yunanistan İşleri Bakanlığını Hackledi](https://www.cnn.gr/ellada/story/230762/toyrkoi-xakaran-tin-istoselida-toy-ypoyrgeioy-ergasias)
+- [Kıbrıs Postası - Rum Basınında Türk Hacker Saldırısı İddiası](https://www.kibrispostasi.com/c58-GUNEY_KIBRIS/n373157-rum-basininda-turk-hacker-saldirisi-iddiasi)
+- [Sabah - Türk Hackerlar Yunanistan’ı Hackledi](https://www.sabah.com.tr/teknokulis/haberler/2020/06/11/turk-hackerlar-yunanistani-hackledi)
+- [India Today - Bihar Govt Sites Hacked](https://www.indiatoday.in/india/story/bihar-govt-website-hacked-hackers-post-message-praising-pak-1582104-2019-08-18)
+- [Euronews - Türk Hackerlar Sinovac’ı Hackledi](https://tr.euronews.com/2020/12/30/turk-hackerlar-cinli-as-uretici-sinovac-sitesine-s-zd-dogu-turkistan-bayrag-yerlestirildi)
+- [Yeni Akit - Türk Hackerlardan Komünist Ülkeye Şok](https://www.yeniakit.com.tr/haber/turk-hackerlerden-komunist-ulkeye-sok-886094.html)
+- [Yeni Akit - Birleşik Krallık Partisine Türk Hacker Şoku](https://www.yeniakit.com.tr/haber/birlesik-krallik-partisine-turk-hacker-soku-1211753.html)
+- [Zone-H - Avrupa Konseyi Hacklendi](http://zone-h.org/mirror/id/34125733?hz=1)
+- [Superhaber - Ermenistan Futbol Federasyonu Hacklendi](https://www.superhaber.tv/ermenistan-futbol-federasyonuna-ayyildiz-soku-haber-302974)
+- [Sputnik Türkiye - Yunanistan Çalışma Bakanlığı Hacklendi](https://tr.sputniknews.com/20200814/turk-hackerlar-yunanistan-calisma-bakanligiinternetsitesini-hackledi-1042657331.html)
+- [Aajtak - Hindistan Bakan Ravi Shankar Prasad’ın Web Sitesi Hacklendi](https://www.aajtak.in/india/story/website-of-law-minister-ravi-shankar-prasad-hacked-website-not-working-as-of-now-1058286-2020-04-26)
+- [Archive.md - RootAyyildiz'in Hackleri](https://archive.md/Zk2kT)
+- [Detay Kıbrıs - Ayşe Tatile Çıksın](http://www.detaykibris.com/rootayyildiz-in-hackleme-saldirisinin-adi-ayse-tatile-ciksin-oldu-251436h.htm)
+- [SecNews - Elysee Sarayı Hacklendi](https://www.secnews.gr/340998/elysee-palace-hacked-rootayyildiz/)
+- [Zone-H - Fox News Hacklendi](http://zone-h.org/mirror/id/35066506)
+- [Zone-H - New York Times Domain Hacklendi](http://zone-h.org/mirror/id/33819987)
+- [Doğru Haber - Fox News Web Sitesi Hacklendi](https://dogruhaber.com.tr/haber/755934-amerika-fox-news-tv-kanalinin-web-sitewsinin-filistin-icin-hacklendigi-iddia-edildi)
+- [SecNews - Mısır İstihbarat Servisi Hacklendi](https://www.secnews.gr/349361/rootayyildiz-hack-state-information-service-egypt/)
+---
+
 ## 🌍 Sosyal Medya ve İletişim:
 
 Beni Instagram'da takip edebilirsiniz:
